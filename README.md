@@ -27,6 +27,7 @@ to sand down the connection points if it doesn't fit.
 - Sticky putty or mounting tack (for sealing purposes)
 - 4 cm × 4 mm screws (for mounting the fans)
 - 12V DC power supply (compatible with the selected DC barrel jack)
+
 Check out attached pictures to see the jack and switch i used. Maybe you can find the same ones for sale.
 
 3d printed parts:
