@@ -1,4 +1,4 @@
-# Laptop Cooler v2 – ROG Strix G513RM    by ayrainn
+# Laptop Cooler v2 – ROG Strix G513RM
 
 
 ## Features
@@ -10,9 +10,7 @@
 
 ## Printing sequence
 
-All four big pieces should be printed facing down meaning faces that are supposed to touch the laptop
-should be touching the printing bed while printing. Do not print the cheese like pieces in different orientation.
-(I know 11 hour print time and 80 gram support is scary) Big pieces are designed to interlock with each 
+Print the pieces in the orientation seen in the pictures attached. Big pieces are designed to interlock with each 
 other but there is no added tolerance as my test prints showed it works best that way. If you don't 
 have access to precise 3d printer you may want to add some tolerance to the connection points or try 
 to sand down the connection points if it doesn't fit. 
@@ -25,11 +23,10 @@ to sand down the connection points if it doesn't fit.
 - Jumper wires (make sure they are thick enough; very thin wires may overheat)
 - Sealing foam (should not be too stiff, otherwise it will not conform to the laptop surface and may leave air gaps)
 - Sticky putty or mounting tack (for sealing purposes)
+- Some kind of glue
 - 4 cm × 4 mm screws (for mounting the fans)
 - 12V DC power supply (compatible with the selected DC barrel jack)
-
-Check out attached pictures to see the jack and switch i used. Maybe you can find the same ones for sale.
-
+     
 3d printed parts:
 
 - 4 big main body parts
