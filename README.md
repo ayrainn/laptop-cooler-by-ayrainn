@@ -6,7 +6,6 @@
 - Designed to fit the previous-gen ROG Strix chassis, would fit most laptops out there.
 - Supports up to three 120mm fans
 - Pressure-focused airflow design
-- Brand name as tramp stamp (backside looked like underwear i had to)
 
 ## Printing sequence
 
