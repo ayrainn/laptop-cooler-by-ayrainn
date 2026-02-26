@@ -23,7 +23,7 @@ to sand down the connection points if it doesn't fit.
 - Sealing foam (should not be too stiff, otherwise it will not conform to the laptop surface and may leave air gaps)
 - Sticky putty or mounting tack (for sealing purposes)
 - Some kind of glue
-- 4 cm × 4 mm screws (for mounting the fans)
+- 4 cm × 4 mm screws (for mounting the fans) (if you are going to use cover pieces instead you should get shorter ones as well)
 - 12V DC power supply (compatible with the selected DC barrel jack)
      
 3d printed parts:
